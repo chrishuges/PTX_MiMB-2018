@@ -1,13 +1,13 @@
-##Parameters file creation
+## Parameters file creation
 
 This document describes the creation of a parameters file for analysis of MS files with SearchCLI. 
 
-####Required software
+#### Required software
 
 1. Download SearchGUI from http://compomics.github.io/projects/searchgui.html if not already done.
 
 
-####Protocol
+#### Protocol
 
 1. Navigate to the directory where you want to store your parameters files. 
 2. Create your parameters file. This file can be used for an Orbitrap MS2 analysis of TMT 10-plex labeled samples.
