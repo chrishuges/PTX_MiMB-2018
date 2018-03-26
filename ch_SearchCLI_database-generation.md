@@ -1,13 +1,13 @@
-##Parameters file preparation
+## Parameters file preparation
 
 This document describes the creation of a parameters file for use with SearchCLI. This walkthrough assumes the use of the command line throughout.
 
-####Required software
+#### Required software
 
 1. Download SearchGUI from http://compomics.github.io/projects/searchgui.html if not already done.
 
 
-####Protocol
+#### Protocol
 
 1. Navigate to the directory where you would like to store your database.
 2. Download the appropriate database using wget.
